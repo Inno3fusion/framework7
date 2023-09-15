@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">inno3fussion-template</string>
+    <string name="title_activity_main">inno3fussion-template</string>
+    <string name="package_name">inno3fussion.template.app</string>
+    <string name="custom_url_scheme">inno3fussion.template.app</string>
+</resources>
